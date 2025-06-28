@@ -1,0 +1,5 @@
+Enter temperature: 100
+Convert to (1)Celsius or (2)Fahrenheit? 1
+In Celsius: 37.777...
+Convert to (1)Celsius or (2)Fahrenheit? 2
+In Fahrenheit: 212.0 °F

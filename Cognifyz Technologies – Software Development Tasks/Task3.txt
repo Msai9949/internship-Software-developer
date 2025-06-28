@@ -1,0 +1,23 @@
+1. Add
+2. View
+3. Update
+4. Delete
+5. Exit
+Enter: 1
+Enter task name: intership project
+
+Enter: 2
+0: intership project
+
+Enter: 3
+Enter index to update: 0
+Enter new name: software development project
+
+Enter: 2
+0: software development project
+
+Enter: 4
+Enter index to delete: 0
+
+Enter: 2
+(no tasks found)
